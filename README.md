@@ -37,3 +37,17 @@ Air exchange for OTG, local currency payment, foreign currency payment
 合作行账户管控，预定收付款账户，保障保理业务资金安全、防止信用风险
 空中换汇OTG，本币支付、外币到账
 
+# Partners
+## PNBAY
+http://pnbay.com/
+Easy Enterprise is a one-stop online supply chain financial service platform carefully built by Pengbei Technology and major financial institutions. It provides a series of identity certification, electronic contracts, payment settlement, online factoring, and transfer of accounts receivables. Online supply chain financial services provide a package of online e-finance solutions for core companies, upstream and downstream customers, factoring companies, banks, logistics and warehousing organizations.
+易企呗是朋贝科技联合各大金融机构精心打造的一站式在线供应链金融服务平台，提供了包括身份认证、电子合约、支付结算、在线保理、应收账款债权转让等一系列线上供应链金融服务，为核心企业、上下游客户、保理公司、银行、物流仓储机构等企业提供一揽子的线上电子金融解决方案。
+
+## TradeWind
+http://www.tradewindfinance.com.cn/en/about/index.aspx
+Founded in 2000, with more than 20 offices in 13 countries including our headquarters in Germany, Tradewind is at the forefront of international trade finance. 
+德益世国际保理成立于2000年，总部设在德国，目前在全球13个国家设立了超过20个分支机构，在国际贸易融资领域处于领先地位。
+
+## Fintech Circle
+https://fintechcircle.com/our-story/
+FINTECH Circle is a global platform of more than 120,000 fintech entrepreneurs, investors, finance professionals, academic and government representatives, and solution providers.
