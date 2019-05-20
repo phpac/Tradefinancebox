@@ -3,7 +3,7 @@ The info site for Trade Finance Box, a cross-boarder eKYC, account, and trade fi
 
 贸金盒子”跨境账务、全球征信、国际保理 一体解决方案,进出口贸易商的强力工具。
 
-Currently under construction
+Currently under development
 
 目前正在建设中
 
