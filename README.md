@@ -4,7 +4,7 @@ The info site for Trade Finance Box, a cross-boarder eKYC, account, and trade fi
 贸金盒子”跨境账务、全球征信、国际保理 一体解决方案,进出口贸易商的强力工具
 
 # Brief
-“Trade Finance Box” is a trading tool and business network focusing on international trade, import and export.Providing traders with international trade client backing, trade terms and account period decision support, and international factoring services for accounts receivable, allowing traders to dare to close deals and worry-free after the transaction.Providing trade customers with back-adjustment and credit decision support for international factoring; perfect, smooth and efficient judicial business support after loan, and financial asset refinancing management.
+“Trade Finance Box” is a integrated toolbox and business network focusing on international trade, tech solutions. It provides participants with international trade client background checking, trade terms and account period decision support, and international factoring services for accounts receivable, allowing traders to dare to close deals and worry-free in the transaction. Providing international factoring providers with customers back-adjustment and credit decision support for ; perfect, smooth and efficient judicial business support after loan, and financial asset refinancing management.
 
 “贸金盒子”是一个专注于国际贸易、进出口环节的交易工具与业务网络。
 为贸易商提供国际贸易客户背调、贸易条款与账期决策支持、应收账款国际保理服务，让贸易商敢于达成交易、成交后无忧。
